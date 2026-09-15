@@ -6,9 +6,9 @@ import java.awt.*;
 import java.util.List;
 import java.util.ArrayList;
 /**
- * @author TP092959 (Tanmay)
- * @module AdminStaff-MasterController
- * @description Central orchestration layer consolidating multi-module workflows (Parts 1-4).
+ * author:- TP092959 (Tanmay)
+ * module:-  AdminStaff-MasterController
+ * description:-  Central orchestration layer consolidating multi-module workflows (Parts 1-4).
  * Handles cross-cutting concerns including cross-role profile synchronization, end-to-end
  * diagnostics loop closure, dynamic resource allocation, and core financial configurations.
  *
