@@ -1,0 +1,5 @@
+A001|Tanmay Sarkar|admin|admin123|AdminStaff
+D001|Dr. Aisyah Rahman|ayesa|ayesa|Doctor|Cardiology|
+D002|R3N|doctor|doctor|Doctor|Pediatrics|
+M001|Dipu|medicalmanager|manager|MedicalManager|Cardiology
+P001|Azmery|patient|patient|Patient|

@@ -1,0 +1,2 @@
+SH001|D001|Monday|Morning (8:00 - 14:00)
+SH002|D001|Wednesday|Afternoon (14:00 - 20:00)

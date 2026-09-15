@@ -1,0 +1,4 @@
+AS001|Consultation Room|Room 101|Level 1, Block A|Available
+AS002|Ward|General Ward 1|Level 2, Block B|Available
+AS003|Lab|Blood Test Lab|Level 1, Block C|Available
+AS004|Imaging Room|X-Ray Room 1|Level 1, Block C|Available
