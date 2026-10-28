@@ -8,9 +8,9 @@ at Asia Pacific University (APU).
 
 ## User roles
 - **Admin** - manage users, assign doctors, manage hospital assets, set rates and insurance, handle lab requests, edit own profile
-- **Doctor** - [e.g. view appointments, write consultation notes and prescriptions]
-- **Patient** - [e.g. register, book appointments, view bills, rate doctors]
-- **Medical Manager** - [e.g. manage shift roster, lab requests]
+- **Doctor** - view profile, write consultation notes, issue prescriptions, create lab / imaging requests
+- **Patient** - register, book appointments, view medical history, rate a visit
+- **Medical Manager** - manage departments and assessment types, plan the shift roster, view reports
 
 ## My contribution
 I built the **Admin** module: `AdminStaff` and `AdminDashboard`, with these screens:
@@ -24,14 +24,13 @@ Manage Users, Assign Doctors, Hospital Assets, Rates & Insurance, Lab Requests a
 - **Reusable UI components**: `NavButton`, `UITheme`
 
 ## Tech
-- Java [version], Swing GUI
+- Java 17, Swing GUI
 - File-based storage in `data/` (plain text files, no database)
 - Password hashing in `PasswordUtil`
 
 ## Run
-1. Clone the repo and open it in [IntelliJ IDEA / NetBeans / Eclipse]
+1. Clone the repo and open it in IntelliJ IDEA
 2. Run the main class `src/Main.java`
-3. Log in with a sample account: [username / password, fictional only]
 
 ## Class diagram
 ```mermaid
@@ -75,3 +74,4 @@ classDiagram
 
 ## Team
 - [@tanmay1802-art](https://github.com/tanmay1802-art) - Admin module
+- [@littleboyvoldemort](https://github.com/littleboyvoldemort) - Doctor module
