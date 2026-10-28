@@ -23,8 +23,7 @@ Java [version], Swing/JavaFX [whichever you used], file-based storage in `data/`
 - `src/` - source code ([packages])
 - `data/` - sample data files (fictional)
 
-## Screenshots
-![Admin dashboard](docs/admin.png)
+
 
 ## Team
 - tanmay1802-art (Admin module)
